@@ -1,0 +1,26 @@
+{
+    "id": "63D930D2",
+    "path": "~/Documents/diytranscriptomics/dataset/kallisto_output/Step1_TxImport.R",
+    "project_path": "Step1_TxImport.R",
+    "type": "r_source",
+    "hash": "3427899726",
+    "contents": "",
+    "dirty": false,
+    "created": 1707259650143.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,28",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707256278,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707259796497,
+    "read_only": false,
+    "read_only_alternatives": []
+}

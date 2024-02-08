@@ -1,0 +1,23 @@
+[2024-01-31 01:25:46,783] multiqc                                            [DEBUG  ]  This is MultiQC v1.19
+[2024-01-31 01:25:46,784] multiqc                                            [DEBUG  ]  Command used: /Users/kimtha/miniconda/envs/rnaseq/bin/multiqc -d .
+[2024-01-31 01:25:47,719] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.19
+[2024-01-31 01:25:47,719] multiqc                                            [DEBUG  ]  Working dir : /Users/kimtha/Documents/diytranscriptomics/dataset
+[2024-01-31 01:25:47,719] multiqc                                            [DEBUG  ]  Template    : default
+[2024-01-31 01:25:47,720] multiqc                                            [DEBUG  ]  Running Python 3.11.7 | packaged by conda-forge | (main, Dec 23 2023, 14:38:52) [Clang 16.0.6 ]
+[2024-01-31 01:25:47,720] multiqc                                            [INFO   ]  Prepending directory to sample names
+[2024-01-31 01:25:47,721] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, mapdamage, biobambam2, jcvi, mtnucratio, picard, vep, bakta, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, seqera_cli, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, truvari, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, freyja, humid, kat, leehom, librarian, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, sourmash, kaiju, bracken, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap, xenome, xengsort
+[2024-01-31 01:25:47,721] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/3y/03ns13qs3g77szbdpzx_w6ww0000gp/T/tmpysu9yxrc
+[2024-01-31 01:25:47,723] multiqc                                            [INFO   ]  Search path : /Users/kimtha/Documents/diytranscriptomics/dataset
+[2024-01-31 01:25:48,163] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_file_contents_search_errors: 890] // [skipped_module_specific_max_filesize: 456] // [skipped_no_match: 60] // [skipped_ignore_pattern: 15] // [skipped_filesize_limit: 2]
+[2024-01-31 01:25:51,229] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.8.2
+[2024-01-31 01:25:51,230] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.8.2
+[2024-01-31 01:25:51,231] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2024-01-31 01:25:51,234] multiqc.modules.kallisto.kallisto                  [INFO   ]  Found 10 reports
+[2024-01-31 01:25:51,254] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 11 reports
+[2024-01-31 01:25:51,285] multiqc.utils.software_versions                    [DEBUG  ]  Reading software versions from config.software_versions
+[2024-01-31 01:25:51,294] multiqc                                            [DEBUG  ]  Compressing plot data
+[2024-01-31 01:25:51,422] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2024-01-31 01:25:51,422] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2024-01-31 01:25:51,422] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/3y/03ns13qs3g77szbdpzx_w6ww0000gp/T/tmpysu9yxrc/multiqc_data' to '/Users/kimtha/Documents/diytranscriptomics/dataset/multiqc_data'
+[2024-01-31 01:25:51,428] multiqc                                            [DEBUG  ]  Full report path: /Users/kimtha/Documents/diytranscriptomics/dataset/multiqc_report.html
+[2024-01-31 01:25:51,510] multiqc                                            [INFO   ]  MultiQC complete
